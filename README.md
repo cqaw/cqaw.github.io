@@ -1,1 +1,1 @@
-# cqaw.github.io
+# The Chart Question Answering Workshop @ CVPR 2021

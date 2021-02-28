@@ -24,7 +24,7 @@ This workshop has three goals: <span class="bluetext">(1)</span> cognition resea
 <br>
 <div class="twocolumn">
 <h2 style='text-align:left'><a href="{{ site.baseurl }}/research" class="cleanlink">DATES</a></h2>
-mid-February 2021: <a href="/challenge" class="bluetext">CQA Challenge Available!</a><br>
+mid-March 2021: <a href="/challenge" class="bluetext">CQA Challenge coming soon!</a><br>
 March 15th 2021: <a href="/submission" class="bluetext">Paper Submission Due</a><br>
 April 1st 2021: Author Notifications<br>
 April 20th 2021: Camera-ready Deadline<br>
@@ -58,6 +58,13 @@ To be announced. The list of confirmed speakers is available <a href="/schedule"
     <td style='padding-left:10px;vertical-align: middle'>
       <a href='https://mpsych.org' target='_blank'>Daniel Haehn</a>
       <br><span class='graytext'>University of Massachusetts Boston</span>
+    </td>
+  </tr>
+  <tr>
+    <td><img src='gfx/mahyar.png' style='width:100px'></td>
+    <td style='padding-left:10px;vertical-align: middle'>
+      <a href='https://groups.cs.umass.edu/nmahyar/' target='_blank'>Narges Mahyar</a>
+      <br><span class='graytext'>University of Massachusetts Amherst</span>
     </td>
   </tr>
   <tr>

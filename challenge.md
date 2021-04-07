@@ -5,6 +5,8 @@ permalink: /challenge
 
 <h2>Chart Question Answering Challenge</h2>
 
+**Note: Submission Instructions coming soon!**
+
 The CQA challenge includes 3 levels of perception: from  low-level visualization building blocks to semantic reasoning that requires text extraction.<br><br>
 
 <h3>Low-level:</h3> Can your model measure Cleveland and McGill's 1984 Angle and Length stimuli? Does your model succeed even in cases of x-position, y-position, and stroke width variations? What about Cleveland and McGill's 1985 images?

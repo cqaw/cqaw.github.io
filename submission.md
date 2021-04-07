@@ -7,7 +7,7 @@ permalink: /submission
 
 Please submit your CQA short papers (4 pages not including references)! 
 
-We welcome work-in-progress! All accepted submissions will be included in the proceedings of CVPR 2021.
+We welcome work-in-progress! 
 <br><br>
 We are interested in all aspects of chart question answering, including but not limited to:
 * Machine Graphical Perception Research
@@ -19,7 +19,7 @@ We are interested in all aspects of chart question answering, including but not 
 
 Submission via CMT: <https://cmt3.research.microsoft.com/CQAW2021>
 
-Please use the [CVPR LaTeX/Word Templates](http://cvpr2021.thecvf.com/sites/default/files/2020-09/cvpr2021AuthorKit_2.zip).
+Please use the [CVPR LaTeX/Word Templates](http://cvpr2021.thecvf.com/sites/default/files/2020-09/cvpr2021AuthorKit_2.zip). However, accepted papers will not appear in the CVPR proceedings.
 
 Best paper award $500, Best poster award $500.
 

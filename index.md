@@ -24,12 +24,10 @@ This workshop has three goals: <span class="bluetext">(1)</span> cognition resea
 <br>
 <div class="twocolumn">
 <h2 style='text-align:left'><a href="{{ site.baseurl }}/research" class="cleanlink">DATES</a></h2>
-April 2021: <a href="/challenge" class="bluetext">CQA Challenge live!</a><br>
-May 15th 2021: <a href="/submission" class="bluetext">Paper Submission Due</a><br>
-May 31st 2021: Author Notifications<br>
-June 7th 2021: Camera-ready Deadline<br>
-June 7th 2021: Challenge Submission Due<br>
-June 15th 2021: Electronic Poster Deadline<br>
+mid-February 2021: <a href="/challenge" class="bluetext">CQA Challenge Available!</a><br>
+June 15th 2021: <a href="/submission" class="bluetext">Paper Submission Due</a><br>
+June 21st 2021: Challenge Submission Due<br>
+June 21st 2021: Electronic Poster Deadline<br>
 June 25th 2021: Workshop!
 </div>
 

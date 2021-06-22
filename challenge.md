@@ -7,7 +7,7 @@ permalink: /challenge
 
 This challenge was developed by <a href="https://www.linkedin.com › hayoun-oh-49a688205" target="_blank">Hayoun Oh</a>. Many thanks to <a href="http://www.yunhaiwang.net/" target="_blank">Yunhai Wang</a> for providing some of the data.
 
-<h3><a class="bluetext" href="https://github.com/LE-V-EL/cqaw_submission" target="_blank">SUBMISSION INSTRUCTIONS!</a></h3>
+<h3><a class="bluetext" style="font-size:24px" href="https://github.com/LE-V-EL/cqaw_submission" target="_blank">SUBMISSION INSTRUCTIONS!</a></h3> IMPORTANT: We will continue the challenge after the workshop but current winners will be announced during the workshop!<br><br>
 
 The CQA challenge includes 3 levels of perception: from  low-level visualization building blocks to semantic reasoning that requires text extraction.<br><br>
 

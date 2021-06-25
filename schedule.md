@@ -15,7 +15,7 @@ WORKSHOP DATE 6/25/2021 - ALL TIMES IN EST!<br><br>
 3:50p Christina M. Funke (Human versus Machine Perception)<br>
 4:10p BREAK 1<br>
 4:15p Zoya Bylinskii (Computational Visualization Analysis)<br>
-4:35p Kushal Kafke (Pioneering work in CQA)<br>
+4:35p Kushal Kafle (Pioneering work in CQA)<br>
 4:55p Ani Kembhavi (Visual Diagram Understanding)<br>
 5:15p BREAK 2: CHALLENGE WINNERS + POSTERS<br>
 5:35p Samira E. Kahou (Datasets for Visual Reasoning)<br>

@@ -10,7 +10,7 @@ permalink: /
 </div>
 -->
 
-IMPORTANT: <span class="bluetext" style="font-size:24px">ZOOM LINK COMING SOON!!</span>
+IMPORTANT: <a href="https://umassboston.zoom.us/j/93635253545" target="_blank"><span class="bluetext" style="font-size:24px">ZOOM LINK</span></a> (Meeting ID: 936 3525 3545)!
 
 <span class="teaser" style="position:relative;"><img src='gfx/charts.png'></span>
 

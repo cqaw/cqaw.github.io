@@ -10,7 +10,7 @@ permalink: /
 </div>
 -->
 
-IMPORTANT: <a href="https://umassboston.zoom.us/j/93635253545" target="_blank"><span class="bluetext" style="font-size:24px">ZOOM LINK</span></a> (Meeting ID: 936 3525 3545)!
+<strike>IMPORTANT: <a href="https://umassboston.zoom.us/j/93635253545" target="_blank"><span class="bluetext" style="font-size:24px">ZOOM LINK</span></a> (Meeting ID: 936 3525 3545)!</strike> VIDEO NOW ONLINE: <a href="https://www.youtube.com/watch?v=2tUP_lTglpw" target="_blank">https://www.youtube.com/watch?v=2tUP_lTglpw</a>
 
 <span class="teaser" style="position:relative;"><img src='gfx/charts.png'></span>
 
@@ -30,7 +30,8 @@ This workshop has three goals: <span class="bluetext">(1)</span> cognition resea
 <strike>June 15th 2021: <a href="/submission" class="bluetext">Paper Submission Due</a></strike><br>
 <strike>June 21st 2021: Challenge Submission Due</strike><br>
 <strike>June 21st 2021: Electronic Poster Deadline</strike><br>
-June 25th 2021: Workshop!<br><br>
+<strike>June 25th 2021: Workshop!</strike><br>
+<strike>Recording <a href="https://www.youtube.com/watch?v=2tUP_lTglpw" target="_blank">HERE</a>!<br><br>
 
 <h2 style='text-align:left'>ORGANIZERS</h2>
 
